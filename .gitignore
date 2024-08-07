@@ -1,0 +1,5 @@
+# ignore ALL .bak files
+*.bak
+
+# ignore ALL files in ANY directory named tmp
+tmp/ 
